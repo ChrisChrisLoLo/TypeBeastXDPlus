@@ -4,7 +4,7 @@
 A minimal 4x10 keyboard layout focused on text editing and programming
 
 ## What is TypeBeastXD+ Home Edition?
-TypeBeastXD+ Home Edition (or TypeBeastXD+ for short) is a 4x10/38 key layout that pulls inspiration from the OLKB Planck layout as well as the [Miryoku layout](https://github.com/manna-harbour/miryoku). It's generally well suited for casual keyboard use as well as programming, and is catered towards ortholinear boards. It focuses more on general "productivity" and an easierlearning curve moreso than ergonomics. I consider it to be a smaller Planck layout that pulls some tricks from Miryoku rather than a Miryoku with more keys.
+TypeBeastXD+ Home Edition (or TypeBeastXD+ for short) is a 4x10/38 key layout that pulls inspiration from the OLKB Planck layout as well as the [Miryoku layout](https://github.com/manna-harbour/miryoku). It's generally well suited for casual keyboard use as well as programming, and is catered towards ortholinear boards. It focuses more on general "productivity" and an easier learning curve moreso than ergonomics. I consider it to be a smaller Planck layout that pulls some tricks from Miryoku rather than a Miryoku layout with more keys.
 
 Since keyboard layouts at this size require some degree of customization and personalization, this layout is by no means a presciptive one size fits all solution, but rather a basis for users to start out and play around with. It's also an artifact to convince people that 4x10 ortholinear boards are very much viable<sup>1</sup> for actual office work and use (minus anything that needs a dedicated keypad).
 
