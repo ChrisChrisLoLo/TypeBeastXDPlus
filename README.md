@@ -32,6 +32,11 @@ Since keyboard layouts at this size require some degree of customization and per
   - very hard to misfire/mistime accidental mods
 - Have Enter and Escape key on the far corners of the layout
   - prevents these keys from getting hit by any thumb mispresses
+  
+## Add-on Features
+While optional, there are other keys that may be useful depending on your situation
+-`GUI`/`CTRL` swap
+  - I like having a key that can swap and unswap `GUI`/`CTRL`. This is mostly since I bounce between a Mac and a Windows Machine, and I always want `⌘` or `CTRL` within my thumb's reach, since they are the keys in charge or copying/cutting/pasting/finding/etc.
 
 ________________________________
 1. The irony of describing the layout as "viable" rather than "optimal" or "better" is not lost out on me :)
