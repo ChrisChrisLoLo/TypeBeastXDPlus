@@ -15,22 +15,23 @@ Since keyboard layouts at this size require some degree of customization and per
   - No home row mod keys<sup>2</sup>, and keys that can send message like `Enter` should be a fair distance away
 - Should _never_ require hotkey changes in the software/OS that you use
   - I don't like the idea of unnecessarily changing settings on your computer to accomodate your keyboard, since said settings won't apply to other computers
-- Strive for general ortholinear keyboard "ergonomics" when possible
+- Should strive for general ortholinear keyboard "ergonomics" when possible
 
 ## Featues
-- Uses QWERTY (Optional)
+- Use QWERTY (Optional)
   - No additional time required to learn a new typing scheme
   - Makes it easier to use shortcuts like `Ctrl`+{`Z`,`X`,`C`,`V`,`F`,...}
     - QMK shortcuts like Copy, Paste, Etc. exist, but do not cover ALL possible shortcuts
-- Puts Arrow Keys on `H`,`J`,`K`, and `L` on the Raise layer
+- Put Arrow Keys on `H`,`J`,`K`, and `L` on the Raise layer
   - Nicely matches VIM navigation
   - Pretty comfortable 
-  - Only requires one hand (so the other can drink coffee and scratch chin)
+  - Only requires one hand (so the other can drink coffee and scratch chin whilst contemplating)
 - Have layer/`Shift`/`Control` keys spanning only 4 keys
   - Having 6 layer keys like Miryoku isn't super comfortable on an ortholinear, as I found that I had to really strech my thumbs in to hit the outer most thumb keys
 - Use [ModTap](https://github.com/qmk/qmk_firmware/blob/master/docs/mod_tap.md) on thumb keys only
   - very hard to misfire/mistime accidental mods
-- Enter and Escape key are intentionally on the far corners of the bar to prevent getting hit by any thumb mispresses
+- Have Enter and Escape key on the far corners of the layout
+  - prevents these keys from getting hit by any thumb mispresses
 
 ________________________________
 1. The irony of describing the layout as "viable" rather than "optimal" or "better" is not lost out on me :)
