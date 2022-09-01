@@ -1,4 +1,4 @@
-# TypeBeastXD+ Home Edition
+<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/TypeBeastXDPlus/main/typebeastXDPlusLogo.png" width="600">
 
 <img src="https://raw.githubusercontent.com/ChrisChrisLoLo/TypeBeastXDPlus/main/keyboard-layout.png">
 A minimal 4x10 keyboard layout focused on text editing and programming
