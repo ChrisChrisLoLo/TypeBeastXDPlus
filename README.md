@@ -33,11 +33,12 @@ Since keyboard layouts at this size require some degree of customization and per
 - Have Enter and Escape key on the far corners of the layout
   - prevents these keys from getting hit by any thumb mispresses
   
-## Add-on Features
+## Add-on Features/Variants
 While optional, there are other keys that may be useful depending on your situation
 -`GUI`/`CTRL` swap
   - I like having a key that can swap and unswap `GUI`/`CTRL`. This is mostly since I bounce between a Mac and a Windows Machine, and I always want `⌘` or `CTRL` within my thumb's reach, since they are the keys in charge or copying/cutting/pasting/finding/etc.
-
+-36 key variant
+  - This layout could likely be reduced down to 36 keys if the blank/user keys were removed and the `Alt` and `Gui` keys were modtap modifiers for `Esc` and `Enter` respectively
 ________________________________
 1. The irony of describing the layout as "viable" rather than "optimal" or "better" is not lost out on me :)
 2. There's nothing wrong with home row mods per se. It's just when I was learning with it, I was accidentally firing off modifiers which would alter my UI/Close programs/Send messages that weren't ready to be sent/etc. I could learn to press lighter on the keys or adjust timing values, but I was way too frustrated at that point, and don't like the idea that there could always be a slim chance that I could misfire one them off. If it's your cup of tea, kudos
