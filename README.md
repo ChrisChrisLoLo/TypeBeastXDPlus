@@ -17,7 +17,7 @@ Since keyboard layouts at this size require some degree of customization and per
   - I don't like the idea of unnecessarily changing settings on your computer to accomodate your keyboard, since said settings won't apply to other computers
 - Should strive for general ortholinear keyboard "ergonomics" when possible
 
-## Featues
+## Features
 - Use QWERTY (Optional)
   - No additional time required to learn a new typing scheme
   - Makes it easier to use shortcuts like `Ctrl`+{`Z`,`X`,`C`,`V`,`F`,...}
