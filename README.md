@@ -12,7 +12,7 @@ Since keyboard layouts at this size require some degree of customization and per
 - Should strive to be relatively easy to learn
   - As such, the layout should pull cues from the Planck layout, which generally has symbols in a logical spot coming from a 60%+ keyboard
 - Should _not_ be prone to destructive/disruptive mispresses
-  - No home row mod keys<sup>2</sup>, and keys that can send message like `Enter` should be a fair distance away
+  - No home row mod keys<sup>2</sup>, and keys that can send message like `Enter` should be a fair distance away from the thumb keys
 - Should _never_ require hotkey changes in the software/OS that you use
   - I don't like the idea of unnecessarily changing settings on your computer to accomodate your keyboard, since said settings won't apply to other computers
 - Should strive for general ortholinear keyboard "ergonomics" when possible
